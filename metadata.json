@@ -5,8 +5,8 @@
       "name": "The Journey Never Ends",
       "attributes": [
         {
-          "trait_type": "Stage of Metamorphosis",
-          "value": "Emergence"
+          "trait_type": "Story",
+          "value": "Stage of Metamorphosis"
         },
         {
           "trait_type": "Color",
@@ -17,7 +17,7 @@
           "value": "Rough"
         },
         {
-          "trait_type": "Subject",
+          "trait_type": "Details",
           "value": "Butterfly"
         },
         {
